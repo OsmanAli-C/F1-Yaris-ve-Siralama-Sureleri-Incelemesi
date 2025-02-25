@@ -24,7 +24,7 @@ Bu proje, Formula 1 pilotlarının sıralama turlarındaki en hızlı tur sürel
 
 ## 📂 Proje Dosyaları  
 
-- 📄 **[Raporu Görüntüle](F1 Sıralama ve Yarış Süreleri İnceleme.pdf)** (Tüm analizlerin detaylı açıklaması)  
+- 📄 **F1 Sıralama ve Yarış Süreleri İnceleme.pdf** Tüm analizlerin detaylı açıklaması  
 
 ## 🛠 Kullanılan Araçlar  
 
